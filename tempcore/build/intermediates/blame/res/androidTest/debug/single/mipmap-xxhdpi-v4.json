@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\qrcode_default_grid_scan_line.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a6f42b20969795ce664de4c171c9b6a4f5e9dafc\\output\\res\\mipmap-xxhdpi-v4\\qrcode_default_grid_scan_line.png"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\btn_clear_input_normal.png",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxhdpi-v4\\btn_clear_input_normal.png"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\clear.png",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxhdpi-v4\\clear.png"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\qrcode_default_scan_line.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a6f42b20969795ce664de4c171c9b6a4f5e9dafc\\output\\res\\mipmap-xxhdpi-v4\\qrcode_default_scan_line.png"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\btn_clear_input_pressed.png",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxhdpi-v4\\btn_clear_input_pressed.png"
+    }
+]

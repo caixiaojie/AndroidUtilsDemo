@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\ganhuo\AndroidUtilsDemo\tempcore\src\main\assets"><file name="tempDB/dbarea.db" path="D:\ganhuo\AndroidUtilsDemo\tempcore\src\main\assets\tempDB\dbarea.db"/></source><source path="D:\ganhuo\AndroidUtilsDemo\tempcore\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\ganhuo\AndroidUtilsDemo\tempcore\src\release\assets"/></dataSet></merger>

@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ce65afcfb4344e20cffb55edbaad6aa572f3525f\\output\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\floating_action_button_show.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\anim\\floating_action_button_show.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\temp_anim_scale_in.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\anim\\temp_anim_scale_in.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\slide_to_right.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\anim\\slide_to_right.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\temp_reverse_up_anim.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\anim\\temp_reverse_up_anim.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\slide_from_right.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\anim\\slide_from_right.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\temp_anim_scale_out.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\anim\\temp_anim_scale_out.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\temp_item_anim.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\anim\\temp_item_anim.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\temp_layout_animation.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\anim\\temp_layout_animation.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\slide_from_left.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\anim\\slide_from_left.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\temp_reverse_down_anim.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\anim\\temp_reverse_down_anim.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\slide_to_left.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\anim\\slide_to_left.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\photo_dialog_out_anim.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\anim\\photo_dialog_out_anim.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\floating_action_button_hide.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\anim\\floating_action_button_hide.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\temp_slide_in_right.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\anim\\temp_slide_in_right.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\photo_dialog_in_anim.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\anim\\photo_dialog_in_anim.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\temp_rotating_anim.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\anim\\temp_rotating_anim.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ce65afcfb4344e20cffb55edbaad6aa572f3525f\\output\\res\\anim\\slide_out_bottom.xml"
+    }
+]

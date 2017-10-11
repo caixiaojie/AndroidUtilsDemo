@@ -1,0 +1,159 @@
+<resources>
+
+		<!-- Base application theme. -->
+		<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+				<!-- Customize your theme here. -->
+				<item name="colorPrimary">@color/colorPrimary</item>
+				<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+				<item name="colorAccent">@color/colorAccent</item>
+		</style>
+
+    <!-- viewpage文本  滑动标签标题 -->
+    <style name="viewpage_slidingTabTitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">70px</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/viewpage_selector_slide_title</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+    <style name="main_menu_animstyle">
+        <item name="android:windowEnterAnimation">@anim/photo_dialog_in_anim</item>
+        <item name="android:windowExitAnimation">@anim/photo_dialog_out_anim</item>
+		<item name="android:windowFrame">@null</item>
+		<item name="android:windowIsFloating">true</item>
+		<item name="android:windowIsTranslucent">true</item>
+		<item name="android:background">@android:color/transparent</item>
+		<item name="android:backgroundDimEnabled">true</item>
+		<item name="android:windowBackground">@color/white</item>
+    </style>
+    <style name="transparentFrameWindowStyle" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/photo_choose_bg</item>
+    </style>
+    <style name="fill_fill">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="AVLoadingIndicatorView">
+        <item name="minWidth">48dip</item>
+        <item name="maxWidth">48dip</item>
+        <item name="minHeight">48dip</item>
+        <item name="maxHeight">48dip</item>
+        <item name="indicatorName">LineSpinFadeLoaderIndicator</item>
+    </style>
+
+		<style name="AVLoadingIndicatorView.Large">
+				<item name="minWidth">72dip</item>
+				<item name="maxWidth">72dip</item>
+				<item name="minHeight">72dip</item>
+				<item name="maxHeight">72dip</item>
+				<item name="indicatorName">LineSpinFadeLoaderIndicator</item>
+		</style>
+
+		<style name="AVLoadingIndicatorView.Small">
+				<item name="minWidth">36dip</item>
+				<item name="maxWidth">36dip</item>
+				<item name="minHeight">36dip</item>
+				<item name="maxHeight">36dip</item>
+				<item name="indicatorName">LineSpinFadeLoaderIndicator</item>
+		</style>
+		<!-- 加载滚动条样式 -->
+		<style name="loading">
+				<item name="android:indeterminate">true</item>
+				<item name="android:indeterminateDrawable">@drawable/progressloading</item>
+				<item name="android:indeterminateDuration">1000</item>
+				<item name="android:indeterminateOnly">true</item>
+		</style>
+
+		<style name="BottomDialog" parent="@style/AppTheme">
+				<item name="android:layout_width">match_parent</item>
+				<item name="android:layout_height">wrap_content</item>
+				<item name="android:windowIsFloating">true</item>
+				<item name="android:backgroundDimEnabled">false</item>
+				<item name="android:windowSoftInputMode">stateAlwaysVisible</item><!--显示软件盘-->
+				<item name="android:backgroundDimAmount">0.5</item>
+		</style>
+
+		<style name="dialog" parent="@android:style/Theme.Dialog">
+				<item name="android:windowFrame">@null</item>
+				//Dialog的windowFrame框为无
+				<item name="android:windowIsFloating">true</item>
+				//是否浮现在activity之上
+				<item name="android:windowIsTranslucent">true</item>
+				//是否半透明
+				<item name="android:windowNoTitle">true</item>
+				//是否显示title
+				<item name="android:background">@android:color/transparent</item>
+				//设置dialog的背景
+				<item name="android:windowBackground">@android:color/transparent</item>
+				<item name="android:backgroundDimAmount">0.7</item>
+				//就是用来控制灰度的值，当为1时，界面除了我们的dialog内容是高亮显示的，dialog以外的区域是黑色的，完全看不到其他内容
+				<item name="android:backgroundDimEnabled">true</item>
+		</style>
+		<style name="quick_option_dialog1" parent="@style/dialog_common">
+				<item name="android:windowNoTitle">true</item>
+				<item name="android:windowFrame">@null</item>
+				<item name="android:windowIsFloating">true</item>
+				<item name="android:windowIsTranslucent">true</item>
+				<item name="android:backgroundDimEnabled">true</item>
+				<item name="android:windowContentOverlay">@null</item>
+				<item name="android:windowFullscreen">true</item>
+
+				<!--   <item name="android:windowBackground">@color/bck</item>-->
+				<item name="android:windowAnimationStyle">@style/dialog_animation</item>
+				android:background="#5000"
+				<!--   <item name="android:windowBackground">@android:color/transparent</item> -->
+		</style>
+
+		<style name="dialog_common" parent="@style/Theme.Base.AppCompat.Dialog.Light.FixedSize">
+				<item name="android:windowBackground">@color/white</item>
+		</style>
+		<style name="dialog_animation" parent="android:Animation">
+				<item name="@android:windowEnterAnimation">@anim/dialog_enter</item>
+				<item name="@android:windowExitAnimation">@anim/dialog_exit</item>
+		</style>
+		<style name="Theme.Base.AppCompat.Dialog.Light.FixedSize"
+		       parent="android:Theme.Holo.Light.Dialog">
+				<item name="windowFixedWidthMajor">@dimen/dialog_fixed_width_major</item>
+				<item name="windowFixedWidthMinor">@dimen/dialog_fixed_width_minor</item>
+				<item name="windowFixedHeightMajor">@dimen/dialog_fixed_height_major</item>
+				<item name="windowFixedHeightMinor">@dimen/dialog_fixed_height_minor</item>
+				<item name="windowActionBar">false</item>
+				<!-- Attributes populated from the framework to be read by apps -->
+				<item name="buttonBarStyle">?android:attr/buttonBarStyle</item>
+				<item name="buttonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+				<item name="selectableItemBackground">?android:attr/selectableItemBackground</item>
+		</style>
+
+
+
+
+    <style name="menu_item_text_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/popupwindow_menu_item_height</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/menu_item_selector</item>
+    </style>
+
+    <style name="menu_item_divider_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/default_divider_height</item>
+        <item name="android:background">@color/menu_item_divider_color</item>
+    </style>
+
+    <style name="item_input_clear">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/btn_clear_input_selector</item>
+        <item name="android:contentDescription">@null</item>
+    </style>
+    <!--
+    <declare-styleable name="ThumbUpView">
+        <attr name="edgeColor" format="color|reference"></attr>
+        <attr name="fillColor" format="color|reference"></attr>
+        <attr name="cracksColor" format="color|reference"></attr>
+        <attr name="bgColor" format="color|reference"></attr>
+
+        <attr name="unlikeType" format="integer"></attr>
+    </declare-styleable>-->
+</resources>

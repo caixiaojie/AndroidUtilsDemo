@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oral pie</string>
+    <string name="crash_dialog_comment_prompt">Add your description of this exception:</string>
+    <string name="crash_dialog_ok_toast">Thanks!</string>
+    <string name="crash_dialog_text">The program stops abnormally. Please help us send the exception report to the developer for repair, just click OK.</string>
+    <string name="crash_dialog_title">abnormal</string>
+    <string name="crash_toast_text">Program exception, has been reported through the abnormal information sent to the developer to repair!</string>
+    <string name="crash_user_email_label">Please fill in your email box so that you can provide better service!</string>
+    <string name="error_view_click_to_refresh">Click on the screen to reload</string>
+    <string name="error_view_load_error_click_to_notconext">no content yet</string>
+    <string name="error_view_load_error_click_to_refresh">Content failed to load\r\nClick Reload</string>
+    <string name="error_view_loading">Loading…</string>
+    <string name="error_view_network_error_click_to_refresh">No network available</string>
+    <string name="error_view_no_data">no content yet</string>
+    <string name="head">This is HeadView</string>
+    <string name="list_footer_end">Has all been loaded</string>
+    <string name="list_footer_loading">Loading ...</string>
+    <string name="list_footer_network_error">Click Reload</string>
+    <string name="listview_header_hint_normal">Pull down to refresh</string>
+    <string name="listview_header_hint_release">Release immediately refresh</string>
+    <string name="listview_header_last_time">Last updated:</string>
+    <string name="listview_loading">loading...</string>
+    <string name="load_fail">Failed to load</string>
+    <string name="load_succeed">The load was successful</string>
+    <string name="loading">Trying to load ...</string>
+    <string name="nomore_loading">No more</string>
+    <string name="pull_to_refresh">Drop refresh</string>
+    <string name="pullup_to_load">Pull up more</string>
+    <string name="refresh_done">Refresh is complete</string>
+    <string name="refresh_fail">Refresh failed</string>
+    <string name="refresh_succeed">Refresh success</string>
+    <string name="refreshing">Refreshing ...</string>
+    <string name="release_to_load">Release load immediately</string>
+    <string name="release_to_refresh">Release immediately refresh</string>
+    <string name="temp_loading">loading...</string>
+    <string name="text_day_ago"> days ago</string>
+    <string name="text_hour_ago"> hour ago</string>
+    <string name="text_just">just</string>
+    <string name="text_minute_ago"> minutes ago</string>
+    <string name="text_month_ago">month ago</string>
+    <string name="text_seconds_ago"> seconds ago</string>
+    <string name="text_year_ago">years ago</string>
+    <string name="tip_network_error">No network available</string>
+</resources>

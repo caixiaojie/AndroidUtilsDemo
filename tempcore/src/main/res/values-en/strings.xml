@@ -1,0 +1,12 @@
+<resources>
+    <string name="temp_loading">loading...</string>
+    <string name="app_name">Oral pie</string>
+    <!--程序异常提示-->
+    <string name="crash_toast_text">Program exception, has been reported through the abnormal information sent to the developer to repair!</string>
+    <string name="crash_dialog_title">abnormal</string>
+     <string name="crash_dialog_text">The program stops abnormally. Please help us send the exception report to the developer for repair, just click OK.</string>
+    <string name="crash_dialog_comment_prompt">Add your description of this exception:</string>
+    <string name="crash_dialog_ok_toast">Thanks!</string>
+    <string name="crash_user_email_label">Please fill in your email box so that you can provide better service!</string>
+
+</resources>

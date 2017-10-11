@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+		<color name="gray_text">#FF858585</color>
+		<color name="app_bg">#FFF0F0F0</color>
+		<color name="infoTextColor">#999999</color>
+		<!-- <color name="infoTextColor">#ffffff</color>-->
+		<color name="color_545454">#545454</color>
+		<color name="color_959595">#959595</color>
+		<color name="color_f7f7f7">#f7f7f7</color>
+		<color name="color_eeeeee">#eeeeee</color>
+		<color name="darkorange">#FF8C00</color> <!--暗桔黄色 -->
+		<color name="transparent">#0000</color>
+		<color name="myCenter_bg">#F4F4F4</color>
+		<color name="Translate">#00000000</color>
+		<color name="color_dialog_gray">#ededf3</color>
+		<color name="color_474747">#474747</color>
+		<color name="split">#f4f4f4</color>
+		<color name="menu_item_press_bg">#d6d2d3</color>
+		<color name="menu_item_divider_color">#404040</color>
+		<color name="blue">#33b5e5</color>
+</resources>

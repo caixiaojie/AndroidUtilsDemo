@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_rv_no_more.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\temp_rv_no_more.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_footer.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\layout_recyclerview_footer.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_custom_progress_dialog_layout.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\temp_custom_progress_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview_empty_layout.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\recyclerview_empty_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_options.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ce65afcfb4344e20cffb55edbaad6aa572f3525f\\output\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ce65afcfb4344e20cffb55edbaad6aa572f3525f\\output\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_refresh_head.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\temp_refresh_head.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview_fragment_pull_refresh.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\recyclerview_fragment_pull_refresh.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\layout_recyclerview_list_footer.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b68d401342ff76daa5533b51413f28ff3f8f206a\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\line_1px_has_m_20.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\line_1px_has_m_20.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_gif_headview.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\temp_gif_headview.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_download_notification_layout.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\temp_download_notification_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_base_list_activity.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\temp_base_list_activity.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_photo_pk_layout.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\temp_photo_pk_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\line_1px.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\line_1px.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\line_20px.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\line_20px.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\image_preview.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\image_preview.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_view_error_layout.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\refresh_view_error_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_basepickerview.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ce65afcfb4344e20cffb55edbaad6aa572f3525f\\output\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b68d401342ff76daa5533b51413f28ff3f8f206a\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b68d401342ff76daa5533b51413f28ff3f8f206a\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview_error_layout.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\recyclerview_error_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\include_viewpager.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f739577c5e5fa7dd4bee89d05b519f88f4682d5b\\output\\res\\layout\\include_viewpager.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b68d401342ff76daa5533b51413f28ff3f8f206a\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_rv_load_more.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\temp_rv_load_more.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer_network_error.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\layout_recyclerview_list_footer_network_error.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\line_1px_has_m_30.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\line_1px_has_m_30.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_app_tool_bar_layout.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\temp_app_tool_bar_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pull_refresh_recyclerview.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\fragment_pull_refresh_recyclerview.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_rv_empty.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\temp_rv_empty.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b68d401342ff76daa5533b51413f28ff3f8f206a\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b68d401342ff76daa5533b51413f28ff3f8f206a\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_layout_progress_recyclerview.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\temp_layout_progress_recyclerview.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer_end.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\layout_recyclerview_list_footer_end.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b68d401342ff76daa5533b51413f28ff3f8f206a\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer_loading.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\layout_recyclerview_list_footer_loading.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_toolbar.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\temp_toolbar.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c1bc389984f99bbbe8f00d4342e03d17c9b492b3\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_header.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\layout_recyclerview_header.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b68d401342ff76daa5533b51413f28ff3f8f206a\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\line_20px_has_m_20.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\line_20px_has_m_20.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b68d401342ff76daa5533b51413f28ff3f8f206a\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b68d401342ff76daa5533b51413f28ff3f8f206a\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_header.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\refresh_header.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_indicator_view.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\layout_indicator_view.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_load_more.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\temp_load_more.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\act_image_preview_layout.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\act_image_preview_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ce65afcfb4344e20cffb55edbaad6aa572f3525f\\output\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e86af44071a3b010621ba1d7f9efb7a18c70eac4\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_rv_progressbar.xml",
+        "source": "D:\\ganhuo\\AndroidUtilsDemo\\tempcore\\src\\main\\res\\layout\\temp_rv_progressbar.xml"
+    }
+]
